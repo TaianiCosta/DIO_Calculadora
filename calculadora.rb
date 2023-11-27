@@ -45,5 +45,6 @@ loop do
         else
             puts 'Opção inválida. Tente novamente.'
         end
-        system "clear"
+
+        system 'clear'
 end
